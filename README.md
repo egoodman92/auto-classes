@@ -1,4 +1,5 @@
-CS229 Project - Audio Classification of Accelerating Vehicles
+Audio Classification of Accelerating Vehicles
+
 In this project, we used Machine Learning method to classify cars using the accelerated audio sound.
 
 Extract_Features_Augmentation.py
